@@ -1,5 +1,6 @@
 # Awesome EDS - Entrepôts de Données de Santé [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Une liste de ressources utiles pour les entrepôts de données de santé (EDS) 
+Une liste de ressources utiles pour les entrepôts de données de santé (EDS). La majorité des solutions présentées sont libre ou opensource. La section *plateformes propriétaires* décrit les principaux acteurs privés.
+
 ## Sommaire
 
 - [Standards & modèles de données](#standards--modèles-de-données)
@@ -72,6 +73,7 @@ Une liste de ressources utiles pour les entrepôts de données de santé (EDS)
 - [Marimo](https://marimo.io/) - une alternative à Jupyter très appréciée à Brest.
 - [JupyterLite](https://chu-brest.github.io/jupyter-lite) - Une instance client only de jupyter lite avec duckdb et pola.rs
 - [LinkR](https://linkr.interhop.org/) - Plateforme open source de data science sur EDS permettant à cliniciens et data scientists de collaborer.
+- [Orthanc](https://www.orthanc-server.com/) - Outils permettant d'interroger le PACS.
 - [LibreDataHub](https://interhop.org/) - Environnement de data science hébergeable en interne (HDS) pour l'apprentissage et l'analyse de données de santé (InterHop).
 - [OHDSI Broadsea](https://github.com/OHDSI/Broadsea) - Déploiement conteneurisé de la suite d'outils OHDSI.
 - [OHDSI ATLAS](https://github.com/OHDSI/Atlas) - Interface web de définition de cohortes et d'analyses sur des données OMOP.
