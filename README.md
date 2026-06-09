@@ -13,7 +13,6 @@ Une liste de ressources utiles pour les entrepôts de données de santé (EDS). 
 - [Plateformes propriétaires](#plateformes-propriétaires)
 - [Jeux de données](#jeux-de-données)
 - [Cadre réglementaire & gouvernance](#cadre-réglementaire--gouvernance)
-- [Institutions, réseaux & communautés](#institutions-réseaux--communautés)
 - [Ressources, formations & documentation](#ressources-formations--documentation)
 - [Contribuer](#contribuer)
 
