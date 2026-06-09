@@ -54,8 +54,8 @@ Une liste de ressources utiles pour les entrepôts de données de santé (EDS)
 - [EDS-NLP](https://github.com/aphp/edsnlp) - Framework de NLP clinique francophone (règles + deep learning), compatible spaCy et PyTorch, développé à l'AP-HP.
 - [eds-pseudo](https://github.com/aphp/eds-pseudo) - Modèle hybride de pseudonymisation des comptes-rendus cliniques, basé sur EDS-NLP.
 - [unpii](https://github.com/dridk/unpii) - Outi de pseudonymisation basé sur des regexp écrit en Rust avec un backend python. Très rapide.
-- [incognito](https://micropot.github.io/incognito/) - Outi de pseudo-anonymisation basé sur des regexpm écrit en python
-
+- [incognito](https://micropot.github.io/incognito/) - Outil de pseudonymisation basé sur des regexpm écrit en python
+- [Presidio](https://github.com/microsoft/presidio) - Librarie de microsoft pour pseudonymiser des documents. Pas de bon support en français.
 ## Plateformes ouvertes
 
 - [Jupyter](https://jupyter.org/) - Une plateforme d'analyse pour les datascientist.
