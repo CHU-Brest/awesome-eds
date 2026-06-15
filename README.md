@@ -73,6 +73,7 @@ Une liste de ressources utiles pour les entrepôts de données de santé (EDS). 
 - [JupyterLite](https://chu-brest.github.io/jupyter-lite) - Une instance client only de jupyter lite avec duckdb et pola.rs
 - [LinkR](https://linkr.interhop.org/) - Plateforme open source de data science sur EDS permettant à cliniciens et data scientists de collaborer.
 - [Orthanc](https://www.orthanc-server.com/) - Outils permettant d'interroger le PACS.
+- [Cohorte360](https://docs.cohort360.org/) - Solution utilisée à l'APHP
 - [Fhir-server](https://www.health-samurai.io/fhir-server) - Une base de données orientée FHIR.
 - [LibreDataHub](https://interhop.org/) - Environnement de data science hébergeable en interne (HDS) pour l'apprentissage et l'analyse de données de santé (InterHop).
 - [OHDSI Broadsea](https://github.com/OHDSI/Broadsea) - Déploiement conteneurisé de la suite d'outils OHDSI.
