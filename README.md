@@ -87,7 +87,8 @@ Une liste de ressources utiles pour les entrepôts de données de santé (EDS). 
 - [Arkhn](https://www.arkhn.com/fr/eds) - une solution d'EDS assez moderne proposant des fonctionnalités basé sur des LLM/   
 - [Codoc](https://www.codoc.co/fr) - Une suite d'applications et une solution d'entrepôt de données de santé pour démocratiser l'usage de la donnée médicale dans les établissements de santé. 
 - [Ehop](https://www.enovacom.com/solution/ehop-lentrepot-de-donnees-dedie-a-la-reutilisation-de-donnees-de-vie-reelles) - Une solution d'EDS basé sur Oracle, orienté recherche documentaires. La transformation des données est faite en XSLT.
-  
+- [Consore](https://www.consore.coexya.eu/consore) - Moteur de recherche médical dédié à la cancérologie
+
 ## Jeux de données
 
 - [MIMIC-IV](https://physionet.org/content/mimiciv/) - Base de données de réanimation en accès contrôlé (PhysioNet), de référence pour la recherche.
