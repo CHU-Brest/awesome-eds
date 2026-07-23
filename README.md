@@ -72,6 +72,7 @@ Une liste de ressources utiles pour les entrepôts de données de santé (EDS). 
 - [Marimo](https://marimo.io/) - une alternative à Jupyter très appréciée à Brest.
 - [JupyterLite](https://chu-brest.github.io/jupyter-lite) - Une instance client only de jupyter lite avec duckdb et pola.rs
 - [LinkR](https://linkr.interhop.org/) - Plateforme open source de data science sur EDS permettant à cliniciens et data scientists de collaborer.
+- [Clinicl-Contract](https://artheioupfat.github.io/clinical-contract/) - Plateforme open source permettant de rédiger des Datacontracts ainsi que de vérifier la conformité d'un fichier de données 
 - [Orthanc](https://www.orthanc-server.com/) - Outils permettant d'interroger le PACS.
 - [Cohorte360](https://docs.cohort360.org/) - Solution utilisée à l'APHP
 - [Fhir-server](https://www.health-samurai.io/fhir-server) - Une base de données orientée FHIR.
