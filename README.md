@@ -52,7 +52,6 @@ Une liste de ressources utiles pour les entrepôts de données de santé (EDS). 
 - [clickhouse](https://clickhouse.com/) - Base de données OLAP très efficace
 - [duckdb](https://duckdb.org/) - Le couteau suisse de la donnée. 
 - [chromadb](https://www.trychroma.com/) - Un base de données vectorielle pour faire un RAG.
-- [MORS](https://gitlab.com/ricdc/outils/mors) - Module d'Observation et de Rapprochement du Statut vital : rapprochement des patients de l'EDS avec le fichier des décès INSEE (Python/Polars, distance de Damerau-Levenshtein). 
 - [extract_metadata](https://gitlab.com/healthdatahub/boas/hdh/extract_metadata) - Extraction des métadonnées d'une base tabulaire (.csv) et d'images DICOM vers des fichiers JSON.
 
 ## Bibliothèques
@@ -61,7 +60,8 @@ Une liste de ressources utiles pour les entrepôts de données de santé (EDS). 
 - [eds-scikit](https://github.com/aphp/eds-scikit) - Boîte à outils Python pour l'analyse de données OMOP issues d'un EDS (AP-HP).
 - [unword](https://github.com/dridk/unword) - Conversion des ancien fichier word (*.doc) en markdown
 - [EDS-NLP](https://github.com/aphp/edsnlp) - Framework de NLP clinique francophone (règles + deep learning), compatible spaCy et PyTorch, développé à l'AP-HP.
-
+- [MORS](https://gitlab.com/ricdc/outils/mors) - Module d'Observation et de Rapprochement du Statut vital : rapprochement des patients de l'EDS avec le fichier des décès INSEE (Python/Polars, distance de Damerau-Levenshtein).
+- 
 ## Pseudonymisation et anonymisation
 
 - [eds-pseudo](https://github.com/aphp/eds-pseudo) - Modèle hybride de pseudonymisation des comptes-rendus cliniques, basé sur EDS-NLP.
