@@ -12,6 +12,7 @@ Une liste de ressources utiles pour les entrepôts de données de santé (EDS). 
 - [Plateformes ouvertes](#plateformes-ouvertes)
 - [Plateformes propriétaires](#plateformes-propriétaires)
 - [Jeux de données](#jeux-de-données)
+- [SNDS](#SNDS)
 - [Cadre réglementaire & gouvernance](#cadre-réglementaire--gouvernance)
 - [Ressources, formations & documentation](#ressources-formations--documentation)
 - [Contribuer](#contribuer)
@@ -96,6 +97,11 @@ Une liste de ressources utiles pour les entrepôts de données de santé (EDS). 
 - [eICU Collaborative Research Database](https://physionet.org/content/eicu-crd/) - Données multicentriques de soins critiques.
 - [Open DAMIR](https://www.data.gouv.fr/datasets/open-damir-base-complete-sur-les-depenses-dassurance-maladie-interregimes) -base complète sur les dépenses d'assurance maladie interrégimes
 
+## SNDS 
+
+- [sndskit](https://github.com/Epiconcept-Paris/sndskit) - sndskit est un package Python qui sert de moteur de recherche dans les données du SNDS. On y déclare les codes CIM-10, ATC et CCAM qui nous intéressent, et il retrouve pour chaque patient les dates de diagnostics, traitements et actes correspondants (séjours, ALD, SSR, causes de décès).
+- [snds_omop](https://gitlab.com/healthdatahub/boas/hdh/snds_omop) - Script SQL en DBT permettant la conversion du schéma du SNDS en schéma OMOP.
+- [sndsTools](https://github.com/SNDStoolers/sndsTools) - Package R permet d'extraire des données de recours aux soins du SNDS pour une population donnée.
  
 ## Cadre réglementaire & gouvernance
 
