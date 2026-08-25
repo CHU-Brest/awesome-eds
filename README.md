@@ -15,6 +15,7 @@ Une liste de ressources utiles pour les entrepôts de données de santé (EDS). 
 - [SNDS](#SNDS)
 - [Cadre réglementaire & gouvernance](#cadre-réglementaire--gouvernance)
 - [Ressources, formations & documentation](#ressources-formations--documentation)
+- [Qualité des données](#qualité--des--données)
 - [Contribuer](#contribuer)
 
 ## Standards & modèles de données
@@ -124,8 +125,6 @@ Une liste de ressources utiles pour les entrepôts de données de santé (EDS). 
 - [Documentation collaborative du SNDS](https://documentation-snds.health-data-hub.fr/) - Référence sur les données du SNDS et leur transformation OMOP.
 - [Traitement des données PMSI avec R](https://guillaumepressiat.github.io/pmeasyr-book/) - Livret d'exemples d'analyses PMSI avec `pmeasyr`.
 - [Bibliothèque Ouverte d'Algorithmes en Santé (BOAS)](https://www.health-data-hub.fr/bibliotheque-ouverte-algorithmes-sante) - Catalogue public d'algorithmes en santé (SNDS, imagerie, NLP) avec fiches détaillées : méthodologie, validation, maintenance, lien vers le dépôt.
-
-## Qualité des données 
 
 ## Qualité des données
 
